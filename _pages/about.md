@@ -3,7 +3,7 @@ layout: page
 title: Maria Cascabel, un blog minimalista 
 permalink: /about
 comments: false
-image: assets/images/banner.png
+image: assets/images/Banner.png.png
 imageshadow: true
 ---
 
