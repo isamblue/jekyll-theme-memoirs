@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Maria Cascabel, un blog minimalista 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/banner.png
 imageshadow: true
 ---
 
