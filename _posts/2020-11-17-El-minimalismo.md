@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El minimalismo como estilo de vida"
-author: Maria
+author: Maria Cascabel
 categories: [ Lifestyle ]
 tags: [ France ]
 image: assets/images/Banner.png.png
