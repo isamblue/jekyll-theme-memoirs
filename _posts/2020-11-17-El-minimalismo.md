@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El minimalismo como estilo de vida"
-author: sal
+author: Maria
 categories: [ Lifestyle ]
 tags: [ France ]
 image: assets/images/Banner.png.png
